@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "931220755020",
+    "firebase_url": "https://grease-monkey-55403.firebaseio.com",
+    "project_id": "grease-monkey-55403",
+    "storage_bucket": "grease-monkey-55403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931220755020:android:ffe220e4c8aa6e1b",
+        "android_client_info": {
+          "package_name": "com.kiit.viper.greasemonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931220755020-g0usb2ukvfaiipdu3vms3c25m7h5p6j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiit.viper.greasemonkey",
+            "certificate_hash": "4b526fa75b4a2a792168e22d50423e5a110c7d51"
+          }
+        },
+        {
+          "client_id": "931220755020-b2jrimf4j2frcg8otm845nsvap2uqdt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcVaO6BVrJPIFVThdwyJbZVIwbfqedD3Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931220755020-b2jrimf4j2frcg8otm845nsvap2uqdt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
